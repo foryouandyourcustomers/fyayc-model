@@ -1,0 +1,357 @@
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>FYAYC</title>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="../infra/image/imicon.png">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../infra/css/main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="../infra/js/jscode.js"></script>
+    <script src="../infra/js/IM.js"></script>
+	<script src="../infra/js/svg-pan-zoom.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="icon" type="image/png" href="../infra/images/icons/favicon/favicon-16x16.png?v=2" sizes="16x16">
+	<link rel="icon" type="image/png" href="../infra/images/icons/favicon/favicon-32x32.png?v=2" sizes="32x32">
+	<link rel="icon" type="image/png" href="../infra/images/icons/favicon/favicon-96x96.png?v=2" sizes="96x96">
+	<link rel="shortcut icon" type="image/x-icon" href="../infra/images/icons/favicon/favicon.ico?v=2">
+</head>
+
+<body>
+	<div class="header" id="TopBar">
+		<h4>foryouandyourcustomers</h4>
+		<h4>FYAYC</h4>
+		<h4>2024-06-12 18:00:21.142384</h4>
+		<img src="../infra/image/logo.jpg" alt="foryouandyourcustomers" id="LLogo">
+	</div>
+	<button id="btnF" type="button" class="btn btn-info" data-toggle="modal" data-target="#MobileSearch">
+		<img class="icon-filter" alt="filter" src="../infra/images/icons/search.svg">
+	</button>
+	<div class="container" id="sidebar">
+		<div id="toc_list">
+			<div class="form-wrapper">
+				<form autocomplete="off">
+					<div class="form-group focused">
+						<label class="form-label" for="first">search key</label>
+						<input id="first" class="form-input" type="text" onkeyup="$d_Find('toc_list',this.value,'a')">
+						<img id="searchclear" alt="plus" class="icon-times" src="../infra/images/icons/cross.svg" type="display: none;">
+						<img class="icon-search" alt="minus" src="../infra/images/icons/search.svg" id="searcher">
+					</div>
+				</form>
+			</div>
+			<h3>Hits:</h3>
+			<output id="count"></output>
+			<div class="contentView">
+
+				<!--diagrams-->
+				
+				<div class="panel-body" id="DiagramL">
+					<div class="panel">
+						<div class="panel-heading collapsed" data-toggle="collapse" data-target="#bardiag">
+							<label class="label0">Diagrams</label>
+							<img class="icon-minus" alt="minus" src="../infra/images/icons/minus.svg">
+							<img class="icon-plus" alt="plus" src="../infra/images/icons/plus.svg">
+						</div>
+					</div>
+					<!-- The inside div eliminates the 'jumping' animation. -->
+					<div class="collapse" id="bardiag">
+						
+					<ol class="tree" id="DiagramList">
+						
+							<li class="obj"><a href="../en/elements/diagrams/DIAG1159.html" target="contentIframe">Organisation-Overview</a>
+						
+							<li class="obj"><a href="../en/elements/diagrams/DIAG1163.html" target="contentIframe">Who-Why-How-Base</a>
+						
+							<li class="obj"><a href="../en/elements/diagrams/DIAG1165.html" target="contentIframe">Who-Why-How-Overview</a>
+						
+					</ol>
+				
+					</div>
+				</div>
+				
+
+				<!--entites-->
+				<div class="panel-body" id="EntitesL">
+					<div class="panel">
+						<div class="panel-heading collapsed" data-toggle="collapse" data-target="#barenti">
+							<label class="label0">Entities</label>
+							<img class="icon-minus" alt="minus" src="../infra/images/icons/minus.svg">
+							<img class="icon-plus" alt="plus" src="../infra/images/icons/plus.svg">
+						</div>
+					</div>
+					<!-- The inside div eliminates the 'jumping' animation. -->
+					<div class="collapse" id="barenti">
+						
+						<ol class="tree" id="EntitesList">
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI51.html" target="contentIframe">'Ethical' value</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI93.html" target="contentIframe">Attitude</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI69.html" target="contentIframe">Board of Directors (BoD)</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI195.html" target="contentIframe">Cell</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI196.html" target="contentIframe">Cell CEO</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI240.html" target="contentIframe">Chief Executive Officer Group</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI198.html" target="contentIframe">Civilisation</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI127.html" target="contentIframe">Co-Environment</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI259.html" target="contentIframe">Colaborator</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI85.html" target="contentIframe">Company</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI114.html" target="contentIframe">Country</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI112.html" target="contentIframe">Customer</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI181.html" target="contentIframe">Doing</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI205.html" target="contentIframe">foryouandyourcustomers basic value</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI204.html" target="contentIframe">foryouandyourcustomers Company</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI206.html" target="contentIframe">foryouandyourcustomers Organization</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI200.html" target="contentIframe">general 'ethical' value</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI92.html" target="contentIframe">Group</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI125.html" target="contentIframe">Human being</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI163.html" target="contentIframe">Location</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI90.html" target="contentIframe">Managing Director</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI202.html" target="contentIframe">paid doing</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI76.html" target="contentIframe">Result</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI77.html" target="contentIframe">Result recipient</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI186.html" target="contentIframe">Sales / Consulting</a>
+							
+							<li class="obj"><a href="../en/elements/entities/ENTI208.html" target="contentIframe">unpaid doing</a>
+							
+						</ol>
+				
+					</div>
+				</div>
+				
+				<!--attributes-->
+				<div class="panel-body" id="AttrsL">
+					<div class="panel">
+						<div class="panel-heading collapsed" data-toggle="collapse" data-target="#barattr">
+							<label class="label0">Attributes</label>
+							<img class="icon-minus" alt="minus" src="../infra/images/icons/minus.svg">
+							<img class="icon-plus" alt="plus" src="../infra/images/icons/plus.svg">
+						</div>
+					</div>
+					<!-- The inside div eliminates the 'jumping' animation. -->
+					<div class="collapse" id="barattr">
+						
+						<ol class="tree" id="AttrsList">
+							
+							
+							
+							<li class="obj"><a href="../en/elements/attributes/ATTR537.html" target="contentIframe">Cell abbreviation (Cell)</a>
+							
+							
+							
+							<li class="obj"><a href="../en/elements/attributes/ATTR622.html" target="contentIframe">Designation (Location)</a>
+							
+							
+							
+							<li class="obj"><a href="../en/elements/attributes/ATTR536.html" target="contentIframe">Name (Cell)</a>
+							
+							
+							
+							<li class="obj"><a href="../en/elements/attributes/ATTR621.html" target="contentIframe">Shortname (Location)</a>
+							
+							
+							
+							<li class="obj"><a href="../en/elements/attributes/ATTR538.html" target="contentIframe">Status (Cell)</a>
+							
+							
+							
+							<li class="obj"><a href="../en/elements/attributes/ATTR624.html" target="contentIframe">Status (Location)</a>
+							
+							
+							
+							<li class="obj"><a href="../en/elements/attributes/ATTR625.html" target="contentIframe">Status (Company)</a>
+							
+						</ol>
+				
+					</div>
+				</div>
+
+				<!--domains-->       
+				
+				<div class="panel-body" id="DomainsL">
+					<div class="panel">
+						<div class="panel-heading collapsed" data-toggle="collapse" data-target="#bardoma">
+							<label class="label0">Domains</label>
+							<img class="icon-minus" alt="minus" src="../infra/images/icons/minus.svg">
+							<img class="icon-plus" alt="plus" src="../infra/images/icons/plus.svg">
+						</div>
+					</div>
+					<!-- The inside div eliminates the 'jumping' animation. -->
+					<div class="collapse" id="bardoma">
+						
+						<ol class="tree" id="DomainList">
+							
+							<li class="obj"><a href="../en/elements/domains/DOMA50.html" target="contentIframe">Zellenstatus</a>
+							
+						</ol>
+				
+					</div>
+				</div>
+				
+
+				<!--business rules-->
+				
+
+				<!--Documents-->
+				
+				<div class="panel-body" id="DocusL">
+					<div class="panel">
+						<div class="panel-heading collapsed" data-toggle="collapse" data-target="#bardocu">
+							<label class="label0">Documents</label>
+							<img class="icon-minus" alt="minus" src="../infra/images/icons/minus.svg">
+							<img class="icon-plus" alt="plus" src="../infra/images/icons/plus.svg">
+						</div>
+					</div>
+					<!-- The inside div eliminates the 'jumping' animation. -->
+					<div class="collapse" id="bardocu">
+						
+						<ol class="tree" id="DocusList">
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU10.html" target="contentIframe">confl-Communication-Services (0)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU9.html" target="contentIframe">Confluence (0)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU15.html" target="contentIframe">Coordination (0)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU16.html" target="contentIframe">Coordination-2 (0)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU21.html" target="contentIframe">Coordination-2-21 (0)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU29.html" target="contentIframe">Coordination-2-21-21_910 Overview organisation life cycle / Übersicht Organisations-Lebenszyklus (12)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU14.html" target="contentIframe">fyayc-Google (0)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU23.html" target="contentIframe">google contacts (1)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU11.html" target="contentIframe">TQMI (0)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU22.html" target="contentIframe">TQMI-Role-BOD (1)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU27.html" target="contentIframe">TQMI-Role-CEO (1)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU26.html" target="contentIframe">TQMI-Role-CEOG (1)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU24.html" target="contentIframe">TQMI-Role-Emp (1)</a>
+							
+							<li class="obj"><a href="../en/elements/documents/DOCU17.html" target="contentIframe">TQMI-Roles (0)</a>
+							
+						</ol>
+				
+					</div>
+				</div>
+				
+
+				<!--OrgUnits-->       
+				
+
+				<!--ActorRoles-->
+				
+
+
+				<!--datamodels-->
+				
+				<div class="panel-body" id="datmL">
+					<div class="panel">
+						<div class="panel-heading collapsed" data-toggle="collapse" data-target="#bardatm">
+							<label class="label0">Data Models</label>
+							<img class="icon-minus" alt="minus" src="../infra/images/icons/minus.svg">
+							<img class="icon-plus" alt="plus" src="../infra/images/icons/plus.svg">
+						</div>
+					</div>
+					<!-- The inside div eliminates the 'jumping' animation. -->
+					<div class="collapse" id="bardatm">
+						
+						<ol class="tree" id="DatmList">
+							
+							<li class="obj"><a href="../datamodels/Confluence/index.html" target="contentIframe">Confluence</a>
+							
+							<li class="obj"><a href="../datamodels/Mite/index.html" target="contentIframe">Mite</a>
+							
+						</ol>
+				
+					</div>
+				</div>
+				
+
+				</div>
+			</div>
+		</div>
+
+
+    
+         <div class="wrapper">
+    		<div class="top-container">
+			
+			
+				
+				DE <a href="../de/index.html" target="_self"><img class="icon-check" alt="DE" src="../infra/images/icons/de.png"></a>
+			
+            <br><button onclick=location.reload()>Diagram(s)</button>
+		</div>
+		<hr>
+             <div style="margin:2rem;position:relative;height:1000px">
+		        <iframe name="contentIframe" loading="lazy" style="position:absolute;top:0;left:0;"
+                        height="100%" width="100%"
+                        src="../en/elements/diagrams/mainview.html"></iframe>
+             </div>
+    	</div>
+    
+
+    <div class="modal" id="MobileSearch" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-full" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Filter</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" id="closeM0">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="modalContent">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal" id="closeM1">OK</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>

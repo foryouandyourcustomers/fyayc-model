@@ -1,0 +1,958 @@
+<svg id="DIAG1159-SVG" width="1291" height="1391" 
+            viewBox="0 0 1291 1391" 
+            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+            version="1.1"> 
+            <style>
+            text{
+                font-family: "TT Norms Pro",Helvetica, Arial
+            }
+            text.entity {
+                font-size: 12px;
+                font-weight: bold;
+            }text.subentity {
+                font-size: 11px;
+                font-weight: bold;
+            }text.attribute {
+                font-size: 10px;
+                font-weight: normal;
+            }text.subattribute {
+                font-size: 9px;
+                font-weight: normal;
+            }text.relation {
+                font-size: 8px;
+                font-weight: normal;
+            }text.metainfo {
+                font-size: 9px;
+                font-weight: normal;
+            }text.legendcategory {
+                font-size: 9px;
+                font-weight: normal;
+            }text.category {
+                font-size: 12px;
+                font-weight: bold;
+            }
+        </style >
+            <defs id="dmw_defs" >
+            </defs>
+            <g id="level0"  minzoom="0" maxzoom="4">
+                 
+<g transform="translate(60,310)" minzoom="0" maxzoom="4">
+            <a id="DIAG1159-ENTI69" href="../../../en/elements/entities/ENTI69.html" target="contentIframe"  >
+            <rect x="0" y="0" width="190" height="101" rx="4"
+            fill="#cccc00" fill-opacity="0.2" />
+            <title>Body that jointly manages the cell group. Organizational board of the cell group.
+It usually meets weekly on Monday mornings.
+All cell CEOs belong to it.
+
+</title>
+            </a><a id="DIAG1159-ENTI69NAME" href="../../../en/elements/entities/ENTI69.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="entity" x="28.5" y="58.0" 
+    text-anchor="start" >
+    <tspan x="28.5" dy="0">Board of Directors (BoD)</tspan>
+    <title>Body that jointly manages the cell group. Organizational board of the cell group.
+It usually meets weekly on Monday mornings.
+All cell CEOs belong to it.
+
+</title>
+    </text></a>
+        </g>
+<g transform="translate(610,250)" minzoom="0" maxzoom="4">
+            <a id="DIAG1159-ENTI85" href="../../../en/elements/entities/ENTI85.html" target="contentIframe"  >
+            <rect x="0" y="0" width="190" height="101" rx="4"
+            fill="#9999ff" fill-opacity="0.2" />
+            <title>Organizational view of a foryouandyourcustomers company
+
+</title>
+            </a><a id="DIAG1159-ENTI85NAME" href="../../../en/elements/entities/ENTI85.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="entity" x="9" y="24" 
+    text-anchor="start" >
+    <tspan x="9" dy="0">Company</tspan>
+    <title>Organizational view of a foryouandyourcustomers company
+
+</title>
+    </text></a>
+<a id="DIAG1159-ATTR625NAME" href="../../../en/elements/attributes/ATTR625.html" target="contentIframe"  minzoom="0" maxzoom="3"><text class="attribute" x="9" y="40" 
+    text-anchor="start" >
+    <tspan x="9" dy="0">Status</tspan>
+    <title>Active, Closed, in Planning,
+
+</title>
+    </text></a>
+        </g>
+<g transform="translate(610,520)" minzoom="0" maxzoom="3">
+            <a id="DIAG1159-ENTI90" href="../../../en/elements/entities/ENTI90.html" target="contentIframe"  >
+            <rect x="0" y="0" width="190" height="101" rx="4"
+            fill="#9999ff" fill-opacity="0.2" />
+            <title>Person who is appointed to represent the legal interests of someone, an association, organization, etc.
+
+</title>
+            </a><a id="DIAG1159-ENTI90NAME" href="../../../en/elements/entities/ENTI90.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="entity" x="44.5" y="58.0" 
+    text-anchor="start" >
+    <tspan x="44.5" dy="0">Managing Director</tspan>
+    <title>Person who is appointed to represent the legal interests of someone, an association, organization, etc.
+
+</title>
+    </text></a>
+        </g>
+<g transform="translate(320,160)" minzoom="0" maxzoom="4">
+            <a id="DIAG1159-ENTI92" href="../../../en/elements/entities/ENTI92.html" target="contentIframe"  >
+            <rect x="0" y="0" width="190" height="101" rx="4"
+            fill="#cccc00" fill-opacity="0.2" />
+            <title>Organizational unit: Entirety of all cells.
+There is currently only 1 cell group that comprises all cells.
+This group discusses and decides on issues that affect all cells.
+
+</title>
+            </a><a id="DIAG1159-ENTI92NAME" href="../../../en/elements/entities/ENTI92.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="entity" x="77.5" y="58.0" 
+    text-anchor="start" >
+    <tspan x="77.5" dy="0">Group</tspan>
+    <title>Organizational unit: Entirety of all cells.
+There is currently only 1 cell group that comprises all cells.
+This group discusses and decides on issues that affect all cells.
+
+</title>
+    </text></a>
+        </g>
+<g transform="translate(950,980)" minzoom="0" maxzoom="4">
+            <a id="DIAG1159-ENTI114" href="../../../en/elements/entities/ENTI114.html" target="contentIframe"  >
+            <rect x="0" y="0" width="190" height="101" rx="4"
+            fill="#9999ff" fill-opacity="0.2" />
+            <title>Country according to ISO-3166
+
+</title>
+            </a><a id="DIAG1159-ENTI114NAME" href="../../../en/elements/entities/ENTI114.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="entity" x="73.0" y="58.0" 
+    text-anchor="start" >
+    <tspan x="73.0" dy="0">Country</tspan>
+    <title>Country according to ISO-3166
+
+</title>
+    </text></a>
+        </g>
+<g transform="translate(330,990)" minzoom="0" maxzoom="4">
+            <a id="DIAG1159-ENTI125" href="../../../en/elements/entities/ENTI125.html" target="contentIframe"  >
+            <rect x="0" y="0" width="431" height="101" rx="4"
+            fill="#ccefcc" fill-opacity="0.2" />
+            <title>A person who works with us or has something to do with us in some capacity. 
+Is the YOU part of foryouandyourcustomers. 
+It is important to us that people are encouraged and accepted as mature beings.
+
+</title>
+            </a><a id="DIAG1159-ENTI125NAME" href="../../../en/elements/entities/ENTI125.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="entity" x="179.0" y="58.0" 
+    text-anchor="start" >
+    <tspan x="179.0" dy="0">Human being</tspan>
+    <title>A person who works with us or has something to do with us in some capacity. 
+Is the YOU part of foryouandyourcustomers. 
+It is important to us that people are encouraged and accepted as mature beings.
+
+</title>
+    </text></a>
+        </g>
+<g transform="translate(950,770)" minzoom="0" maxzoom="4">
+            <a id="DIAG1159-ENTI163" href="../../../en/elements/entities/ENTI163.html" target="contentIframe"  >
+            <rect x="0" y="0" width="190" height="101" rx="4"
+            fill="#9999ff" fill-opacity="0.2" />
+            <title>A site is a physical location (office premises) regularly operated or used by employees.
+Locations are typically the defined work locations of employees.
+
+Usually the main location of the cell (which 
+
+Baar (BA)
+Stuttgart (ST)
+Regensburg (RG)</title>
+            </a><a id="DIAG1159-ENTI163NAME" href="../../../en/elements/entities/ENTI163.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="entity" x="9" y="24" 
+    text-anchor="start" >
+    <tspan x="9" dy="0">Location</tspan>
+    <title>A site is a physical location (office premises) regularly operated or used by employees.
+Locations are typically the defined work locations of employees.
+
+Usually the main location of the cell (which 
+
+Baar (BA)
+Stuttgart (ST)
+Regensburg (RG)</title>
+    </text></a>
+<a id="DIAG1159-ATTR621NAME" href="../../../en/elements/attributes/ATTR621.html" target="contentIframe"  minzoom="0" maxzoom="3"><text class="attribute" x="9" y="40" 
+    text-anchor="start" >
+    <tspan x="9" dy="0">Shortname</tspan>
+    <title>
+
+</title>
+    </text></a>
+<a id="DIAG1159-ATTR622NAME" href="../../../en/elements/attributes/ATTR622.html" target="contentIframe"  minzoom="0" maxzoom="2"><text class="attribute" x="9" y="56" 
+    text-anchor="start" >
+    <tspan x="9" dy="0">Designation</tspan>
+    <title>
+
+</title>
+    </text></a>
+<a id="DIAG1159-ATTR624NAME" href="../../../en/elements/attributes/ATTR624.html" target="contentIframe"  minzoom="0" maxzoom="2"><text class="attribute" x="9" y="72" 
+    text-anchor="start" >
+    <tspan x="9" dy="0">Status</tspan>
+    <title>*DE* Active, Closed, in Planning, ???
+
+</title>
+    </text></a>
+        </g>
+<g transform="translate(330,380)" minzoom="0" maxzoom="4">
+            <a id="DIAG1159-ENTI195" href="../../../en/elements/entities/ENTI195.html" target="contentIframe"  >
+            <rect x="0" y="0" width="190" height="101" rx="4"
+            fill="#cccc00" fill-opacity="0.2" />
+            <title>Cell is an organizational unit.
+It is a group of max. 32 people (25 FTEs) who work together and are led by one person (cell CEO).
+Each cell has its own identity (purpose, areas of work, team formation
+
+Baar (BA)
+Stammhaus (SH)
+Frankfurt Hauptwache (FH)</title>
+            </a><a id="DIAG1159-ENTI195NAME" href="../../../en/elements/entities/ENTI195.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="entity" x="9" y="24" 
+    text-anchor="start" >
+    <tspan x="9" dy="0">Cell</tspan>
+    <title>Cell is an organizational unit.
+It is a group of max. 32 people (25 FTEs) who work together and are led by one person (cell CEO).
+Each cell has its own identity (purpose, areas of work, team formation
+
+Baar (BA)
+Stammhaus (SH)
+Frankfurt Hauptwache (FH)</title>
+    </text></a>
+<a id="DIAG1159-ATTR536NAME" href="../../../en/elements/attributes/ATTR536.html" target="contentIframe"  minzoom="0" maxzoom="2"><text class="attribute" x="9" y="40" 
+    text-anchor="start" >
+    <tspan x="9" dy="0">Name</tspan>
+    <title>
+
+Uster
+Munich
+*de* München</title>
+    </text></a>
+<a id="DIAG1159-ATTR537NAME" href="../../../en/elements/attributes/ATTR537.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="attribute" x="9" y="56" 
+    text-anchor="start" >
+    <tspan x="9" dy="0">Cell abbreviation</tspan>
+    <title>shortname 2 uppercase letters
+
+</title>
+    </text></a>
+<a id="DIAG1159-ATTR538NAME" href="../../../en/elements/attributes/ATTR538.html" target="contentIframe"  minzoom="0" maxzoom="2"><text class="attribute" x="9" y="72" 
+    text-anchor="start" >
+    <tspan x="9" dy="0">Status</tspan>
+    <title>administrative status of the cell
+
+active
+in planning
+questionmark</title>
+    </text></a>
+        </g>
+<g transform="translate(330,620)" minzoom="0" maxzoom="4">
+            <a id="DIAG1159-ENTI196" href="../../../en/elements/entities/ENTI196.html" target="contentIframe"  >
+            <rect x="0" y="0" width="190" height="101" rx="4"
+            fill="#cccc00" fill-opacity="0.2" />
+            <title>A cell manager is appointed by the Group CEO.
+He or she manages a cell and all employees assigned to this cell.
+
+Each cell CEO is also an authorized signatory for the company to which the cell belongs
+
+</title>
+            </a><a id="DIAG1159-ENTI196NAME" href="../../../en/elements/entities/ENTI196.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="entity" x="69.0" y="58.0" 
+    text-anchor="start" >
+    <tspan x="69.0" dy="0">Cell CEO</tspan>
+    <title>A cell manager is appointed by the Group CEO.
+He or she manages a cell and all employees assigned to this cell.
+
+Each cell CEO is also an authorized signatory for the company to which the cell belongs
+
+</title>
+    </text></a>
+        </g>
+<g transform="translate(610,690)" minzoom="0" maxzoom="3">
+            <a id="DIAG1159-ENTI240" href="../../../en/elements/entities/ENTI240.html" target="contentIframe"  >
+            <rect x="0" y="0" width="190" height="101" rx="4"
+            fill="#9999ff" fill-opacity="0.2" />
+            <title>Managing Director of foryouandyourcustomers Baar AG
+The CEOG (TQMI role name) has the essential task of integrally managing the group, the BoD and the individual cell CEOS.
+
+</title>
+            </a><a id="DIAG1159-ENTI240NAME" href="../../../en/elements/entities/ENTI240.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="entity" x="12.5" y="58.0" 
+    text-anchor="start" >
+    <tspan x="12.5" dy="0">Chief Executive Officer Group</tspan>
+    <title>Managing Director of foryouandyourcustomers Baar AG
+The CEOG (TQMI role name) has the essential task of integrally managing the group, the BoD and the individual cell CEOS.
+
+</title>
+    </text></a>
+        </g>
+<g transform="translate(330,810)" minzoom="0" maxzoom="4">
+            <a id="DIAG1159-ENTI259" href="../../../en/elements/entities/ENTI259.html" target="contentIframe"  >
+            <rect x="0" y="0" width="190" height="101" rx="4"
+            fill="#cccc00" fill-opacity="0.2" />
+            <title>Person who works for a cell of foryouandyourcustomers. Be it internally as an employee or as an external casual or contract employee.
+
+</title>
+            </a><a id="DIAG1159-ENTI259NAME" href="../../../en/elements/entities/ENTI259.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="entity" x="63.0" y="58.0" 
+    text-anchor="start" >
+    <tspan x="63.0" dy="0">Colaborator</tspan>
+    <title>Person who works for a cell of foryouandyourcustomers. Be it internally as an employee or as an external casual or contract employee.
+
+</title>
+    </text></a>
+        </g>
+<g transform="translate(870,260)" minzoom="0" maxzoom="3">
+            <a id="DIAG1159-ENTI204" href="../../../en/elements/entities/ENTI204.html" target="contentIframe"  >
+            <rect x="0" y="0" width="271" height="181" rx="4"
+            fill="#9999ff" fill-opacity="0.2" />
+            <title>legally registered company belonging to the foryouandyourcustomers group.
+It complies with local legal and financial obligations.
+It is authorized by law to conclude contracts (with customers, supplie
+
+foryouandyourcustomers Amsterdam B.V.
+foryouandyourcustomers Pty Ltd
+foryouandyourcustomers Sofia Ltd.</title>
+            </a><a id="DIAG1159-ENTI204NAME" href="../../../en/elements/entities/ENTI204.html" target="contentIframe"  minzoom="0" maxzoom="4"><text class="entity" x="41.0" y="98.0" 
+    text-anchor="start" >
+    <tspan x="41.0" dy="0">foryouandyourcustomers Company</tspan>
+    <title>legally registered company belonging to the foryouandyourcustomers group.
+It complies with local legal and financial obligations.
+It is authorized by law to conclude contracts (with customers, supplie
+
+foryouandyourcustomers Amsterdam B.V.
+foryouandyourcustomers Pty Ltd
+foryouandyourcustomers Sofia Ltd.</title>
+    </text></a>
+        </g>
+<g transform="translate(510,210)" minzoom="0" maxzoom="4">
+            <line x1="80" y1="0" x2="50.3" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+<a id="DIAG1159-1447NAME"   minzoom="0" maxzoom="4"><text class="relation" x="15" y="2.2" 
+    text-anchor="start" >
+    <tspan x="15" dy="0">groups</tspan>
+    <title>1 &quot;Group&quot; groups 0..N &quot;Company&quot;
+
+</title>
+    </text></a>
+<a id="D1448-1449NAME"   minzoom="0" maxzoom="4"><text class="relation" x="44.3" y="2.2" 
+    text-anchor="start" >
+    <tspan x="44.3" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="0" x2="13" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(590,280)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="-39.0" x2="0" y2="-70" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+<a id="DIAG1159-1451NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-20.0" y="-25.0" 
+    text-anchor="start" >
+    <tspan x="-20.0" dy="0">grouped in</tspan>
+    <title>1 &quot;Company&quot; grouped in 1 &quot;Group&quot;
+
+</title>
+    </text></a>
+<a id="D1452-1453NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-1.5" y="-37.0" transform="rotate(-90 3.5 -37.0)"
+    text-anchor="start" >
+    <tspan x="-1.5" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="-13" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(610,280)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="0" x2="-20" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/><path transform="rotate(180 0 0)" d="M 0.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+        </g>
+<g transform="translate(150,310)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="-44.0" x2="0" y2="-100" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1455NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-16.5" y="-30.0" 
+    text-anchor="start" >
+    <tspan x="-16.5" dy="0">leads</tspan>
+<tspan x="-16.5" dy="10">integrally</tspan>
+    <title>1 &quot;Board of Directors (BoD)&quot; leads integrally 1 &quot;Group&quot;
+
+</title>
+    </text></a>
+<a id="D1456-1457NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-1.5" y="-42.0" transform="rotate(-90 3.5 -42.0)"
+    text-anchor="start" >
+    <tspan x="-1.5" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="-13" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(320,210)" minzoom="0" maxzoom="4">
+            <line x1="-170" y1="0" x2="-105" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1459NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-95" y="2.2" 
+    text-anchor="start" >
+    <tspan x="-95" dy="0">integrally managed by</tspan>
+    <title>1 &quot;Group&quot; integrally managed by 1 &quot;Board of Directors (BoD)&quot;
+
+</title>
+    </text></a>
+<a id="D1460-1461NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-101" y="1.2000000000000002" transform="rotate(180 -100 -0.19999999999999973)"
+    text-anchor="start" >
+    <tspan x="-101" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="-13" y1="0" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(425,990)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="0" x2="0" y2="-40" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(425,911)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="0" x2="0" y2="39" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(1045,980)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="-39.0" x2="0" y2="-54" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+<a id="DIAG1159-1463NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-15.5" y="-25.0" 
+    text-anchor="start" >
+    <tspan x="-15.5" dy="0">contains</tspan>
+    <title>1 &quot;Country&quot; contains 0..N &quot;Location&quot;
+
+</title>
+    </text></a>
+<a id="D1464-1465NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-1.5" y="-37.0" transform="rotate(-90 3.5 -37.0)"
+    text-anchor="start" >
+    <tspan x="-1.5" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="-13" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(1045,871)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="55" x2="0" y2="33" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1467NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-7.0" y="21" 
+    text-anchor="start" >
+    <tspan x="-7.0" dy="0">is in</tspan>
+    <title>1 &quot;Location&quot; is in 1 &quot;Country&quot;
+
+</title>
+    </text></a>
+<a id="D1468-1469NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-5.9" y="31" transform="rotate(90 -0.9000000000000004 31)"
+    text-anchor="start" >
+    <tspan x="-5.9" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="0" x2="0" y2="13" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/><path transform="rotate(90 0 0)" d="M 0.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+        </g>
+<g transform="translate(330,456)" minzoom="0" maxzoom="4">
+            <line x1="-217" y1="0" x2="-61" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+<a id="DIAG1159-1471NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-51" y="2.2" 
+    text-anchor="start" >
+    <tspan x="-51" dy="0">employed</tspan>
+    <title>1 &quot;Cell&quot; employed 0..N &quot;Colaborator&quot;
+
+</title>
+    </text></a>
+<a id="D1472-1473NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-57" y="1.2000000000000002" transform="rotate(180 -56 -0.19999999999999973)"
+    text-anchor="start" >
+    <tspan x="-57" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="-13" y1="0" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(113,456)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="0" x2="0" y2="390" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(330,846)" minzoom="0" maxzoom="4">
+            <line x1="-217" y1="0" x2="-65" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1475NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-55" y="2.2" 
+    text-anchor="start" >
+    <tspan x="-55" dy="0">assigned to</tspan>
+    <title>1 &quot;Colaborator&quot; assigned to 1 &quot;Cell&quot;
+
+</title>
+    </text></a>
+<a id="D1476-1477NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-61" y="1.2000000000000002" transform="rotate(180 -60 -0.19999999999999973)"
+    text-anchor="start" >
+    <tspan x="-61" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="-13" y1="0" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/><path transform="rotate(180 -3.5 0)" d="M -7.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+        </g>
+<g transform="translate(360,481)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="79" x2="0" y2="33" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1479NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-25.0" y="21" 
+    text-anchor="start" >
+    <tspan x="-25.0" dy="0">conducted by</tspan>
+    <title>1 &quot;Cell&quot; conducted by 1..N &quot;Cell CEO&quot;
+
+</title>
+    </text></a>
+<a id="D1480-1481NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-5.9" y="31" transform="rotate(90 -0.9000000000000004 31)"
+    text-anchor="start" >
+    <tspan x="-5.9" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="0" x2="0" y2="13" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/><path transform="rotate(90 0 0)" d="M 0.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+        </g>
+<g transform="translate(360,620)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="-39.0" x2="0" y2="-60" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1483NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-16.5" y="-25.0" 
+    text-anchor="start" >
+    <tspan x="-16.5" dy="0">manages</tspan>
+    <title>1 &quot;Cell CEO&quot; manages 1..N &quot;Cell&quot;
+
+</title>
+    </text></a>
+<a id="D1484-1485NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-1.5" y="-37.0" transform="rotate(-90 3.5 -37.0)"
+    text-anchor="start" >
+    <tspan x="-1.5" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="-13" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/><path transform="rotate(-90 -3.5 -3.5)" d="M -7.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+        </g>
+<g transform="translate(610,590)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="0" x2="-40" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(570,590)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="0" x2="0" y2="140" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(610,730)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="0" x2="-40" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(610,330)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="0" x2="-20" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(590,330)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="80" x2="0" y2="33" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+<a id="DIAG1159-1487NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-13.0" y="21" 
+    text-anchor="start" >
+    <tspan x="-13.0" dy="0">groups</tspan>
+    <title>1 &quot;Company&quot; groups 0..N &quot;Cell&quot;
+
+</title>
+    </text></a>
+<a id="D1488-1489NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-5.9" y="31" transform="rotate(90 -0.9000000000000004 31)"
+    text-anchor="start" >
+    <tspan x="-5.9" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="0" x2="0" y2="13" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(520,410)" minzoom="0" maxzoom="4">
+            <line x1="70" y1="0" x2="65.0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1491NAME"   minzoom="0" maxzoom="4"><text class="relation" x="15" y="2.2" 
+    text-anchor="start" >
+    <tspan x="15" dy="0">grouped in</tspan>
+    <title>1 &quot;Cell&quot; grouped in 1 &quot;Company&quot;
+
+</title>
+    </text></a>
+<a id="D1492-1493NAME"   minzoom="0" maxzoom="4"><text class="relation" x="59.0" y="2.2" 
+    text-anchor="start" >
+    <tspan x="59.0" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="0" x2="13" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/><path  d="M 0.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+        </g>
+<g transform="translate(610,576)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="0" x2="-167" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(443,620)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="0" x2="0" y2="-44" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(1079,441)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="203" x2="0" y2="53" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+<a id="DIAG1159-1495NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-20.5" y="21" 
+    text-anchor="start" >
+    <tspan x="-20.5" dy="0">is legally</tspan>
+<tspan x="-20.5" dy="10">responsible</tspan>
+<tspan x="-20.5" dy="10">for</tspan>
+    <title>1 &quot;foryouandyourcustomers Company&quot; is legally responsible for 0..N &quot;Location&quot;
+
+</title>
+    </text></a>
+<a id="D1496-1497NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-5.9" y="51" transform="rotate(90 -0.9000000000000004 51)"
+    text-anchor="start" >
+    <tspan x="-5.9" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="0" x2="0" y2="13" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(1079,770)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="-49.0" x2="0" y2="-126" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1499NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-20.5" y="-35.0" 
+    text-anchor="start" >
+    <tspan x="-20.5" dy="0">is legally</tspan>
+<tspan x="-20.5" dy="10">responsible</tspan>
+<tspan x="-20.5" dy="10">for</tspan>
+    <title>1 &quot;Location&quot; is legally responsible for 1 &quot;foryouandyourcustomers Company&quot;
+
+</title>
+    </text></a>
+<a id="D1500-1501NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-1.5" y="-47.0" transform="rotate(-90 3.5 -47.0)"
+    text-anchor="start" >
+    <tspan x="-1.5" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="-13" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/><path transform="rotate(-90 -3.5 -3.5)" d="M -7.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+        </g>
+<g transform="translate(220,411)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="139" x2="0" y2="33" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1503NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-13.0" y="21" 
+    text-anchor="start" >
+    <tspan x="-13.0" dy="0">lead by</tspan>
+    <title>1 &quot;Board of Directors (BoD)&quot; lead by 1 &quot;Chief Executive Officer Group&quot;
+
+</title>
+    </text></a>
+<a id="D1504-1505NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-5.9" y="31" transform="rotate(90 -0.9000000000000004 31)"
+    text-anchor="start" >
+    <tspan x="-5.9" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="0" x2="0" y2="13" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(220,550)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="0" x2="310" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(530,550)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="0" x2="0" y2="200" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(610,750)" minzoom="0" maxzoom="3">
+            <line x1="-80" y1="0" x2="-44" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1507NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-34" y="2.2" 
+    text-anchor="start" >
+    <tspan x="-34" dy="0">leads</tspan>
+    <title>1 &quot;Chief Executive Officer Group&quot; leads 1 &quot;Board of Directors (BoD)&quot;
+
+</title>
+    </text></a>
+<a id="D1508-1509NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-40" y="1.2000000000000002" transform="rotate(180 -39 -0.19999999999999973)"
+    text-anchor="start" >
+    <tspan x="-40" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="-13" y1="0" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(870,360)" minzoom="0" maxzoom="3">
+            <line x1="-90" y1="0" x2="-47" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1511NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-37" y="2.2" 
+    text-anchor="start" >
+    <tspan x="-37" dy="0">led by</tspan>
+    <title>1 &quot;foryouandyourcustomers Company&quot; led by 1..N &quot;Managing Director&quot;
+
+</title>
+    </text></a>
+<a id="D1512-1513NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-43" y="1.2000000000000002" transform="rotate(180 -42 -0.19999999999999973)"
+    text-anchor="start" >
+    <tspan x="-43" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="-13" y1="0" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/><path transform="rotate(180 -3.5 0)" d="M -7.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+        </g>
+<g transform="translate(780,360)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="0" x2="0" y2="120" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(780,520)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="-39.0" x2="0" y2="-40" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1515NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-9.5" y="-25.0" 
+    text-anchor="start" >
+    <tspan x="-9.5" dy="0">leads</tspan>
+    <title>1 &quot;Managing Director&quot; leads 1..N &quot;foryouandyourcustomers Company&quot;
+
+</title>
+    </text></a>
+<a id="D1516-1517NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-1.5" y="-37.0" transform="rotate(-90 3.5 -37.0)"
+    text-anchor="start" >
+    <tspan x="-1.5" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="-13" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/><path transform="rotate(-90 -3.5 -3.5)" d="M -7.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+        </g>
+<g transform="translate(420,810)" minzoom="3" maxzoom="4">
+            <line x1="0" y1="0" x2="0" y2="-50" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(420,721)" minzoom="3" maxzoom="4">
+            <line x1="0" y1="0" x2="0" y2="39" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(480,481)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="0" x2="0" y2="19" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/><path transform="rotate(90 0 0)" d="M 0.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+        </g>
+<g transform="translate(480,500)" minzoom="0" maxzoom="4">
+            <line x1="500" y1="0" x2="39.8" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+<a id="DIAG1159-1519NAME"   minzoom="0" maxzoom="4"><text class="relation" x="15" y="2.2" 
+    text-anchor="start" >
+    <tspan x="15" dy="0">uses</tspan>
+    <title>1 &quot;Cell&quot; uses 0..N &quot;Location&quot;
+
+</title>
+    </text></a>
+<a id="D1520-1521NAME"   minzoom="0" maxzoom="4"><text class="relation" x="33.8" y="2.2" 
+    text-anchor="start" >
+    <tspan x="33.8" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="0" x2="13" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(980,770)" minzoom="0" maxzoom="4">
+            <line x1="0" y1="-39.0" x2="0" y2="-270" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+<a id="DIAG1159-1523NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-17.5" y="-25.0" 
+    text-anchor="start" >
+    <tspan x="-17.5" dy="0">is used by</tspan>
+    <title>1 &quot;Location&quot; is used by 0..N &quot;Cell&quot;
+
+</title>
+    </text></a>
+<a id="D1524-1525NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-1.5" y="-37.0" transform="rotate(-90 3.5 -37.0)"
+    text-anchor="start" >
+    <tspan x="-1.5" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="-13" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/><path transform="rotate(-90 -3.5 -3.5)" d="M -7.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+        </g>
+<g transform="translate(800,305)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="0" x2="35" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(870,305)" minzoom="0" maxzoom="3">
+            <line x1="0" y1="0" x2="-35" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+<g transform="translate(330,679)" minzoom="0" maxzoom="2">
+            <line x1="-153" y1="0" x2="-39" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1527NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-29" y="2.2" 
+    text-anchor="start" >
+    <tspan x="-29" dy="0">is in</tspan>
+    <title>1 &quot;Cell CEO&quot; is in 1 &quot;Board of Directors (BoD)&quot;
+
+</title>
+    </text></a>
+<a id="D1528-1529NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-35" y="1.2000000000000002" transform="rotate(180 -34 -0.19999999999999973)"
+    text-anchor="start" >
+    <tspan x="-35" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="-13" y1="0" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/><path transform="rotate(180 -3.5 0)" d="M -7.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+        </g>
+<g transform="translate(177,409)" minzoom="0" maxzoom="2">
+            <line x1="0" y1="270" x2="0" y2="33" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="DIAG1159-1531NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-18.5" y="21" 
+    text-anchor="start" >
+    <tspan x="-18.5" dy="0">consists of</tspan>
+    <title>1 &quot;Board of Directors (BoD)&quot; consists of 1..N &quot;Cell CEO&quot;
+
+</title>
+    </text></a>
+<a id="D1532-1533NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-5.9" y="31" transform="rotate(90 -0.9000000000000004 31)"
+    text-anchor="start" >
+    <tspan x="-5.9" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="0" x2="0" y2="13" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g transform="translate(177,411)" minzoom="0" maxzoom="2">
+            <line x1="0" y1="0" x2="0" y2="-2" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+        </g>
+<g  transform="translate(25,1126)" >
+                    <a id="D1534-1535NAME"   minzoom="0" maxzoom="4"><text class="metainfo" x="0" y="0" 
+    text-anchor="start" >
+    <tspan x="0" dy="0">Model:</tspan>
+    <title></title>
+    </text></a>
+<a id="D1536-1537NAME"   minzoom="0" maxzoom="4"><text class="metainfo" x="50" y="0" 
+    text-anchor="start" >
+    <tspan x="50" dy="0">FYAYC</tspan>
+    <title></title>
+    </text></a>
+<a id="D1538-1539NAME"   minzoom="0" maxzoom="4"><text class="metainfo" x="0" y="13" 
+    text-anchor="start" >
+    <tspan x="0" dy="0">Diagram:</tspan>
+    <title></title>
+    </text></a>
+<a id="D1540-1541NAME"   minzoom="0" maxzoom="4"><text class="metainfo" x="50" y="13" 
+    text-anchor="start" >
+    <tspan x="50" dy="0">Organisation-Overview</tspan>
+    <title></title>
+    </text></a>
+<a id="D1542-1543NAME"   minzoom="0" maxzoom="4"><text class="metainfo" x="0" y="26" 
+    text-anchor="start" >
+    <tspan x="0" dy="0">updated:</tspan>
+    <title></title>
+    </text></a>
+<a id="D1544-1545NAME"   minzoom="0" maxzoom="4"><text class="metainfo" x="50" y="26" 
+    text-anchor="start" >
+    <tspan x="50" dy="0">xsxb,</tspan>
+    <title></title>
+    </text></a>
+<a id="D1546-1547NAME"   minzoom="0" maxzoom="4"><text class="metainfo" x="85" y="26" 
+    text-anchor="start" >
+    <tspan x="85" dy="0">2023-12-29 09:51:52 UTC</tspan>
+    <title></title>
+    </text></a>
+                    </g>
+                
+<g transform="translate(236,1126)" >
+                    <rect x="0" y="0" width="90" height="30" 
+            fill="#9999ff" fill-opacity="0.2" /><a id="D1548-1549NAME"   minzoom="0" maxzoom="4"><text class="legendcategory" x="24.0" y="20.5" 
+    text-anchor="start" >
+    <tspan x="24.0" dy="0">Civilisation</tspan>
+    <title></title>
+    </text></a>
+                    </g>
+                
+<g transform="translate(331,1126)" >
+                    <rect x="0" y="0" width="90" height="30" 
+            fill="#cccc00" fill-opacity="0.2" /><a id="D1550-1551NAME"   minzoom="0" maxzoom="4"><text class="legendcategory" x="6.0" y="20.5" 
+    text-anchor="start" >
+    <tspan x="6.0" dy="0">foryouandyourcust..</tspan>
+    <title></title>
+    </text></a>
+                    </g>
+                
+<g transform="translate(426,1126)" >
+                    <rect x="0" y="0" width="90" height="30" 
+            fill="#ccefcc" fill-opacity="0.2" /><a id="D1552-1553NAME"   minzoom="0" maxzoom="4"><text class="legendcategory" x="12.0" y="20.5" 
+    text-anchor="start" >
+    <tspan x="12.0" dy="0">Co-Environment</tspan>
+    <title></title>
+    </text></a>
+                    </g>
+                
+<g transform="translate(781,1126)" >
+                    <a href="https://www.informationsmodellierung.ch/english/syntax-of-the-information-model/" minzoom="0" maxzoom="4"><text class="metainfo" x="0" y="0" 
+    text-anchor="start" >
+    <tspan x="0" dy="0">Informationmodel Syntax</tspan>
+    <title></title>
+    </text></a>
+<g transform="translate(0,10)" minzoom="0" maxzoom="4">
+            <a id="D1554-1555"   >
+            <rect x="0" y="0" width="85" height="50" rx="4"
+            fill="#000000" fill-opacity="0.2" />
+            <title>Thing of interest in the current environment
+
+Customer
+Product
+Sales Representant</title>
+            </a><a id="D1556-1557NAME"   minzoom="0" maxzoom="4"><text class="entity" x="9" y="24" 
+    text-anchor="start" >
+    <tspan x="9" dy="0">Entity-1</tspan>
+    <title>Thing of interest in the current environment
+
+Customer
+Product
+Sales Representant</title>
+    </text></a>
+<a id="D1558-1559NAME"   minzoom="0" maxzoom="4"><text class="attribute" x="9" y="40" 
+    text-anchor="start" >
+    <tspan x="9" dy="0">Attribute</tspan>
+    <title>Property of this entity, containing one value
+
+Name
+Size
+Weight</title>
+    </text></a>
+        </g>
+<g transform="translate(275,10)" minzoom="0" maxzoom="4">
+            <a id="D1560-1561"   >
+            <rect x="0" y="0" width="85" height="50" rx="4"
+            fill="#000000" fill-opacity="0.2" />
+            <title>Another thing of interest in the current environment
+
+Name
+Size
+Weight</title>
+            </a><a id="D1562-1563NAME"   minzoom="0" maxzoom="4"><text class="entity" x="21.0" y="32.5" 
+    text-anchor="start" >
+    <tspan x="21.0" dy="0">Entity-2</tspan>
+    <title>Another thing of interest in the current environment
+
+Name
+Size
+Weight</title>
+    </text></a>
+        </g>
+<g transform="translate(85,35.0)" minzoom="0" maxzoom="4">
+            <line x1="95.0" y1="0.0" x2="88.10000000000001" y2="0.0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/>
+<a id="D1564-1565NAME"   minzoom="0" maxzoom="4"><text class="relation" x="15" y="2.2" 
+    text-anchor="start" >
+    <tspan x="15" dy="0">Relationship verb</tspan>
+    <title>Relation verb mandatorily (solid line) connecting an instance of Entity-1 with 1 instance (ending in single line) of Entity-2
+
+Several relations comming off an entity which are marked with the same ty
+
+Person must live in 1 House
+Tax must be applicable for 1 country</title>
+    </text></a>
+<a id="D1566-1567NAME"   minzoom="0" maxzoom="4"><text class="relation" x="82.10000000000001" y="2.2" 
+    text-anchor="start" >
+    <tspan x="82.10000000000001" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="0" y1="0" x2="13" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="0"/><path  d="M 0.0 -3.5 l 7 3.5 l -7 3.5" fill="transparent" stroke="black" stroke-width=".7"/>
+<circle stroke="black" stroke-width=".3" fill="none" cx="9.75" cy="0.0" r="2.2" />
+        </g>
+<g transform="translate(275,35.0)" minzoom="0" maxzoom="4">
+            <line x1="-95.0" y1="-0.0" x2="-91" y2="-0.0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+<a id="D1568-1569NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-81" y="2.2" 
+    text-anchor="start" >
+    <tspan x="-81" dy="0">Relationship verb2</tspan>
+    <title>Relation verb2 optionally (dashed line) connecting an instance of Entity-2 with 1 or many instances (ending in crowfoot) of Entity-1
+
+House can house several Persons
+Country can be subject to many Taxes</title>
+    </text></a>
+<a id="D1570-1571NAME"   minzoom="0" maxzoom="4"><text class="relation" x="-87" y="1.2000000000000002" transform="rotate(180 -86 -0.19999999999999973)"
+    text-anchor="start" >
+    <tspan x="-87" dy="0">&gt;</tspan>
+    <title></title>
+    </text></a>
+<line x1="-13" y1="0" x2="0" y2="0" 
+                stroke="black" stroke-width=".7" stroke-dasharray="3"/>
+        </g>
+                    </g>
+                
+                 </g>
+              
+        </svg>
