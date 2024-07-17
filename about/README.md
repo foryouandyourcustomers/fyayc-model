@@ -1,2 +1,7 @@
 # fyayc-model
-The information model of foryouandyourcustomers. Simple version, viewing only
+This repository contains a subset of the information model of foryouandyourcustomers. 
+
+It is read only.
+
+Responsible:
+stb@foryouandyourcustomers.com
